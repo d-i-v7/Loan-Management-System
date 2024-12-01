@@ -1,0 +1,82 @@
+LOAN MANAGEMENT SYSTEM
+_______________________
+
+FEATURES
+__________________
+Security features
+1.Authentication Login And SignUp With Email!.
+2.Two-Factor Authentication
+3.Data Encryption
+4.screen Password!.
+
+Admin Panel Features
+___________________
+1.Dashboard
+2.crud Of Loans.
+3.crud Of Expenses.
+3.reports of loan As Form To.
+4.To Do List.
+5.Note.
+6.File Manager.
+5.trash or r-bin
+
+Notifications Features
+_______________________
+1.Email
+2.Alert In System!
+
+<!-- Loans -->
+Loans Table
+____________
+1.loan_id
+name
+phone
+2.loan_type = given taken!
+3.total_amount 
+4.crate_date
+<!-- Itmes -->
+itmem_id
+1.item_name
+2.item_amount
+create_Date
+
+
+
+
+
+
+
+
+
+DESC = From largest to smallest  9-0
+
+ASC = From smallest to largest 0-9
+
+ASC = LIMIT 1
+0 1 2 3 4 5 6 7 8 9 10 1000
+
+limit 1
+100 11 10 9 8 7 6 5 4 3 2 1 0
+
+
+<!-- Lesson Note -->
+Waa Maxay RelationalShip Database?
+
+Update & Delete
+
+
+user ali, abdi, faarax
+
+ posts  post1 
+
+one to one 
+
+one to many
+
+many to many
+
+
+
+Siduu U Shaqeeyaa ?
+
+Muxuu Naga Caawinaa?
